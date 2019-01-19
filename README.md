@@ -12,14 +12,14 @@ A modern, JVM-based, full-stack framework for building modular, easily testable 
 - Examples: https://github.com/micronaut-projects/micronaut-examples
 
 # Some videos:
-<a href="https://www.youtube.com/watch?v=P1qp_l5EFic">Introduction to Micronaut: Lightweight Microservices with Ahead of Time Compilation by Graeme Rocher (15 nov. 2018)</a>
-<a href="https://www.youtube.com/watch?v=upp3mKVVu9Q">Launching the Micro Future: Groovy, Grails and Micronaut (1 dec. 2018)</a>
-<a href="https://www.youtube.com/watch?v=aBTMn-9PPvM">Micronaut in Action! by Iván López (15 nov. 2018)</a>
-<a href="https://www.youtube.com/watch?v=56j_f3OCg6E">Micronaut Announcement at Greach Conference (28 avr. 2018)</a>
-<a href="https://www.youtube.com/watch?v=10OBZINvwRA">Reactive microservices with Micronaut - Álvaro Sánchez-Mariscal (1 dec. 2018)</a>
-<a href="https://www.youtube.com/watch?v=9odEvHN3AJM">Meet GalecinoCar: A Self-Driving Car Powered by Micronaut - Ryan Vanderwerf (14 august 2018)</a>
-<a href="https://www.youtube.com/watch?v=R90A8drFkyQ">Micronaut CLI Introduction (29 may 2018)</a>
-<a href="https://www.youtube.com/watch?v=0xnsbelwJQQ">Server-less functions with Micronaut by Alvaro Sanchez-Mariscal (13 nov. 2018)</a>
+<a href="https://www.youtube.com/watch?v=P1qp_l5EFic">Introduction to Micronaut: Lightweight Microservices with Ahead of Time Compilation by Graeme Rocher (15 nov. 2018)</a><br/>
+<a href="https://www.youtube.com/watch?v=upp3mKVVu9Q">Launching the Micro Future: Groovy, Grails and Micronaut (1 dec. 2018)</a><br/>
+<a href="https://www.youtube.com/watch?v=aBTMn-9PPvM">Micronaut in Action! by Iván López (15 nov. 2018)</a><br/>
+<a href="https://www.youtube.com/watch?v=56j_f3OCg6E">Micronaut Announcement at Greach Conference (28 avr. 2018)</a><br/>
+<a href="https://www.youtube.com/watch?v=10OBZINvwRA">Reactive microservices with Micronaut - Álvaro Sánchez-Mariscal (1 dec. 2018)</a><br/>
+<a href="https://www.youtube.com/watch?v=9odEvHN3AJM">Meet GalecinoCar: A Self-Driving Car Powered by Micronaut - Ryan Vanderwerf (14 august 2018)</a><br/>
+<a href="https://www.youtube.com/watch?v=R90A8drFkyQ">Micronaut CLI Introduction (29 may 2018)</a><br/>
+<a href="https://www.youtube.com/watch?v=0xnsbelwJQQ">Server-less functions with Micronaut by Alvaro Sanchez-Mariscal (13 nov. 2018)</a><br/>
 
 # Contributing
 Contributions are very welcome!
