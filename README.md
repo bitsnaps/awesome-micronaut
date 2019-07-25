@@ -1,3 +1,6 @@
+P.S. This page is archived and will not have updates in the future, please refer to this page instead: [awesome-micronaut](https://github.com/JonasHavers/awesome-micronaut) by JonasHavers.
+
+
 # Awesome Micronaut
 A curated list of Micronaut framework, libraries and tools for the Java, Groovy, Kotlin programming language related to Micronaut framework.
 
